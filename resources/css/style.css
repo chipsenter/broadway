@@ -2,6 +2,7 @@
   color: white;
   text-align: center;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+
 }
 div {
   display: block;
@@ -13,11 +14,13 @@ div {
 }
 body{
   font-family: Helvetica,sans-serif;
-  margin: 8px;
+  margin: 10px;
   display: block;
 }
 .head1 {
   font-size: 70px;
+  text-shadow: 2px 5px black;
+
 }
 .head2 {
   font-family: Helvetica;
@@ -46,7 +49,7 @@ h1,h2,h3 {
 }
 p{
   display: block;
-  
+
 }
 .footer {
   font-family: Helvetica, sans-serif;
