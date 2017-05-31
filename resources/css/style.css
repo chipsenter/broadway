@@ -46,4 +46,12 @@ h1,h2,h3 {
 }
 p{
   display: block;
+  
+}
+.footer {
+  font-family: Helvetica, sans-serif;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
